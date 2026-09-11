@@ -22,11 +22,7 @@ The app is built for Android phones using Kotlin, which is the modern programmin
 
 ## **Inside the home screen**
 
-The dashboard you read about above did not build itself. Below are two snippets straight from the file that powers it, showing the logic that calculates income and the layout that puts it all on screen.
-
-![][image1]
-
-![][image2]
+📁 **Code Evidence:** Two screenshots of the code used for the home screen are included in the file named **"Inside the Home Screen (Screenshot)"** in this repository. These screenshots show the actual code behind the app's home screen.
 
 ## **Getting it running**
 
